@@ -1,0 +1,86 @@
+2025-03-04-01:16:19:243, 0, bed out, 1.665, 2.102, true, true, true
+2025-03-04-01:16:24:415, 0, bed out, 1.665, 2.102, false, true, true
+2025-03-04-01:18:32:290, 1, fall, 3.500, 0.955, true, true, true
+2025-03-04-01:18:45:034, 1, fall, 3.500, 0.955, false, true, true
+2025-03-04-01:22:30:599, 0, bed out, 1.665, 2.102, true, true, true
+2025-03-04-01:22:35:701, 0, bed out, 1.665, 2.102, false, true, true
+2025-03-04-01:22:40:018, 0, bed out, 1.665, 2.102, true, true, true
+2025-03-04-01:22:45:208, 0, bed out, 1.665, 2.102, false, true, true
+2025-03-04-07:51:25:206, 0, bed out, 1.797, 2.167, true, true, true
+2025-03-04-07:51:30:346, 0, bed out, 1.797, 2.167, false, true, true
+2025-03-04-07:52:53:063, 0, bed out, 1.797, 2.167, true, true, true
+2025-03-04-07:52:58:147, 0, bed out, 1.797, 2.167, false, true, true
+2025-03-04-07:52:59:078, 0, bed out, 1.797, 2.167, true, true, true
+2025-03-04-07:53:04:151, 0, bed out, 1.797, 2.167, false, true, true
+2025-03-04-07:53:43:852, 0, bed out, 1.797, 1.833, true, true, true
+2025-03-04-07:53:48:937, 0, bed out, 1.797, 1.833, false, true, true
+2025-03-04-07:56:29:529, 0, bed out, 1.797, 1.833, true, true, true
+2025-03-04-07:56:34:581, 0, bed out, 1.797, 1.833, false, true, true
+2025-03-04-07:58:19:731, 0, bed out, 1.797, 1.833, true, true, true
+2025-03-04-07:58:24:912, 0, bed out, 1.797, 1.833, false, true, true
+2025-03-04-07:59:18:450, 0, bed out, 1.797, 1.833, true, true, true
+2025-03-04-07:59:23:461, 0, bed out, 1.797, 1.833, false, true, true
+2025-03-04-07:59:36:282, 0, bed out, 1.797, 1.833, true, true, true
+2025-03-04-07:59:41:472, 0, bed out, 1.797, 1.833, false, true, true
+2025-03-04-08:00:11:856, 0, bed out, 1.797, 1.833, true, true, true
+2025-03-04-08:00:17:001, 0, bed out, 1.797, 1.833, false, true, true
+2025-03-04-08:00:46:916, 0, bed out, 2.335, 1.602, true, true, true
+2025-03-04-08:00:52:024, 0, bed out, 2.335, 1.602, false, true, true
+2025-03-04-08:01:09:251, 0, bed out, 2.335, 1.602, true, true, true
+2025-03-04-08:01:14:284, 0, bed out, 2.335, 1.602, false, true, true
+2025-03-04-08:01:31:494, 0, bed out, 2.335, 1.602, true, true, true
+2025-03-04-08:01:36:551, 0, bed out, 2.335, 1.602, false, true, true
+2025-03-04-08:01:39:604, 0, bed out, 2.335, 1.602, true, true, true
+2025-03-04-08:01:44:822, 0, bed out, 2.335, 1.602, false, true, true
+2025-03-04-08:01:55:742, 0, bed out, 1.797, 1.833, true, true, true
+2025-03-04-08:02:00:839, 0, bed out, 1.797, 1.833, false, true, true
+2025-03-04-08:02:01:054, 0, bed out, 2.335, 1.602, true, true, true
+2025-03-04-08:02:06:093, 0, bed out, 2.335, 1.602, false, true, true
+2025-03-04-08:02:15:870, 0, bed out, 2.335, 1.602, true, true, true
+2025-03-04-08:02:21:107, 0, bed out, 2.335, 1.602, false, true, true
+2025-03-04-08:03:30:386, 0, bed out, 1.797, 1.833, true, true, true
+2025-03-04-08:03:35:401, 0, bed out, 1.797, 1.833, false, true, true
+2025-03-04-08:03:54:113, 0, bed out, 1.665, 2.602, true, true, true
+2025-03-04-08:03:59:165, 0, bed out, 1.665, 2.602, false, true, true
+2025-03-04-08:04:08:337, 0, bed out, 1.665, 2.602, true, true, true
+2025-03-04-08:04:13:429, 0, bed out, 1.665, 2.602, false, true, true
+2025-03-04-08:13:42:820, 0, bed out, 2.203, 2.833, true, true, true
+2025-03-04-08:13:48:045, 0, bed out, 2.203, 2.833, false, true, true
+2025-03-04-08:14:05:457, 0, bed out, 1.797, 2.667, true, true, true
+2025-03-04-08:14:10:558, 0, bed out, 1.797, 2.667, false, true, true
+2025-03-04-08:15:06:070, 0, bed out, 1.797, 2.667, true, true, true
+2025-03-04-08:15:11:093, 0, bed out, 1.797, 2.667, false, true, true
+2025-03-04-08:15:53:044, 0, bed out, 1.797, 2.667, true, true, true
+2025-03-04-08:15:58:117, 0, bed out, 1.797, 2.667, false, true, true
+2025-03-04-08:16:00:652, 0, bed out, 1.797, 2.667, true, true, true
+2025-03-04-08:16:05:873, 0, bed out, 1.797, 2.667, false, true, true
+2025-03-04-08:22:24:000, 0, bed out, 1.665, 2.898, true, true, true
+2025-03-04-08:22:29:151, 0, bed out, 1.665, 2.898, false, true, true
+2025-03-04-08:27:28:001, 0, bed out, 1.797, 2.833, true, true, true
+2025-03-04-08:27:33:113, 0, bed out, 1.797, 2.833, false, true, true
+2025-03-04-08:27:52:844, 0, bed out, 1.797, 2.833, true, true, true
+2025-03-04-08:27:57:878, 0, bed out, 1.797, 2.833, false, true, true
+2025-03-04-08:28:11:786, 0, bed out, 1.797, 2.833, true, true, true
+2025-03-04-08:28:16:887, 0, bed out, 1.797, 2.833, false, true, true
+2025-03-04-08:39:28:058, 1, fall, 3.692, 1.034, true, true, true
+2025-03-04-08:39:29:073, 1, fall, 3.692, 1.034, false, true, true
+2025-03-04-08:39:50:996, 1, fall, 4.201, 0.497, true, true, true
+2025-03-04-08:39:51:839, 1, fall, 4.201, 0.497, false, true, true
+2025-03-04-13:26:08:909, 0, bed out, 1.665, 2.398, true, true, true
+2025-03-04-13:26:14:007, 0, bed out, 1.665, 2.398, false, true, true
+2025-03-04-13:26:20:636, 0, bed out, 1.665, 2.398, true, true, true
+2025-03-04-13:26:25:761, 0, bed out, 1.665, 2.398, false, true, true
+2025-03-04-14:00:59:604, 0, bed out, 1.797, 2.667, true, true, true
+2025-03-04-14:01:04:683, 0, bed out, 1.797, 2.667, false, true, true
+2025-03-04-14:19:41:929, 0, bed out, 1.665, 2.398, true, true, true
+2025-03-04-14:19:47:176, 0, bed out, 1.665, 2.398, false, true, true
+2025-03-04-14:19:49:641, 0, bed out, 1.665, 2.398, true, true, true
+2025-03-04-14:19:54:679, 0, bed out, 1.665, 2.398, false, true, true
+2025-03-04-14:21:19:497, 0, bed out, 1.665, 2.398, true, true, true
+2025-03-04-14:21:24:507, 0, bed out, 1.665, 2.398, false, true, true
+2025-03-04-14:22:48:749, 0, bed out, 1.665, 2.398, true, true, true
+2025-03-04-14:22:53:810, 0, bed out, 1.665, 2.398, false, true, true
+2025-03-04-14:23:06:572, 0, bed out, 1.665, 2.398, true, true, true
+2025-03-04-14:23:11:821, 0, bed out, 1.665, 2.398, false, true, true
+2025-03-04-15:49:23:993, 1, fall, 2.082, 0.984, true, true, true
+2025-03-04-15:49:27:189, 1, fall, 2.082, 0.984, false, true, true

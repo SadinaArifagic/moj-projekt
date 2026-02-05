@@ -1,0 +1,21 @@
+# data
+data/
+datasets/
+
+# models
+models/
+checkpoints/
+*.pt
+*.ckpt
+*.h5
+
+# cache
+__pycache__/
+.ipynb_checkpoints/
+
+# env
+venv/
+.env/
+
+processed/
+*.npy

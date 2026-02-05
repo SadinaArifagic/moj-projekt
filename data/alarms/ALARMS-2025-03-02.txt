@@ -1,0 +1,30 @@
+2025-03-02-08:40:33:032, 0, bed out, 1.665, 2.602, true, true, true
+2025-03-02-08:40:38:173, 0, bed out, 1.665, 2.602, false, true, true
+2025-03-02-08:42:52:749, 0, bed out, 1.665, 2.771, true, true, true
+2025-03-02-08:42:57:779, 0, bed out, 1.665, 2.771, false, true, true
+2025-03-02-08:45:37:933, 0, bed out, 1.665, 2.602, true, true, true
+2025-03-02-08:45:43:154, 0, bed out, 1.665, 2.602, false, true, true
+2025-03-02-08:46:48:955, 0, bed out, 1.665, 2.898, true, true, true
+2025-03-02-08:46:54:187, 0, bed out, 1.665, 2.898, false, true, true
+2025-03-02-08:51:23:512, 0, bed out, 1.665, 2.898, true, true, true
+2025-03-02-08:51:28:658, 0, bed out, 1.665, 2.898, false, true, true
+2025-03-02-08:51:30:624, 0, bed out, 1.665, 2.898, true, true, true
+2025-03-02-08:51:35:659, 0, bed out, 1.665, 2.898, false, true, true
+2025-03-02-08:52:04:273, 0, bed out, 1.665, 2.898, true, true, true
+2025-03-02-08:52:09:432, 0, bed out, 1.665, 2.898, false, true, true
+2025-03-02-19:03:52:612, 0, bed out, 1.797, 2.667, true, true, true
+2025-03-02-19:03:57:656, 0, bed out, 1.797, 2.667, false, true, true
+2025-03-02-19:22:04:480, 0, bed out, 1.665, 2.398, true, true, true
+2025-03-02-19:22:09:632, 0, bed out, 1.665, 2.398, false, true, true
+2025-03-02-19:26:29:489, 1, fall, 1.582, 1.981, true, true, true
+2025-03-02-19:26:31:812, 1, fall, 1.582, 1.981, false, true, true
+2025-03-02-19:31:07:290, 0, bed out, 1.797, 2.167, true, true, true
+2025-03-02-19:31:12:526, 0, bed out, 1.797, 2.167, false, true, true
+2025-03-02-19:31:23:120, 0, bed out, 1.797, 2.167, true, true, true
+2025-03-02-19:31:28:281, 0, bed out, 1.797, 2.167, false, true, true
+2025-03-02-19:32:34:170, 0, bed out, 1.797, 2.167, true, true, true
+2025-03-02-19:32:39:336, 0, bed out, 1.797, 2.167, false, true, true
+2025-03-02-19:32:39:879, 0, bed out, 1.797, 2.167, true, true, true
+2025-03-02-19:32:45:088, 0, bed out, 1.797, 2.167, false, true, true
+2025-03-02-19:34:06:555, 0, bed out, 1.797, 2.167, true, true, true
+2025-03-02-19:34:11:641, 0, bed out, 1.797, 2.167, false, true, true
